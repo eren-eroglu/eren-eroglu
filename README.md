@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **@35ereneroglu**
+- 📫 How to reach me **@ErenEroglu_Eng**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

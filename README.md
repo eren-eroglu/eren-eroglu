@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I'm Eren Eroglu</h1>
 <h3 align="center">Front-end Javascript developer from Turkey</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611edd70232061f98a77116e3fc71c3120a32ae2536&rid=giphy.gif&ct=g">
-<p align="left"> <a href="https://twitter.com/ErenEroglu_Eng" target="blank"><img src="https://img.shields.io/twitter/follow/ErenEroglu_Eng?logo=twitter&style=for-the-badge" alt="35ereneroglu" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 

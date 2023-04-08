@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Eren Eroglu</h1>
 <h3 align="center">Front-end Javascript developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **@ErenEroglu_Eng**
+- 📫 How to reach me **@35ereneroglu**
 
 <h3 align="left">Connect with me:</h3>
 <div style="display:'flex';">

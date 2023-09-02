@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Eren Eroglu</h1>
 <h3 align="center">Front-end Javascript developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Javascript**
 
